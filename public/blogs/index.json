@@ -1,5 +1,14 @@
 [
   {
+    "slug": "cake-vps",
+    "title": "一键配置 CAKE 队列脚本，优化vps带宽占用",
+    "tags": [],
+    "date": "2026-01-10T15:57",
+    "summary": "",
+    "hidden": false,
+    "category": ""
+  },
+  {
     "slug": "Fail2ban-ufw",
     "title": "Fail2ban + UFW 自动封禁 SSH 探测与爆破 IP (Debian 12 实战)-更新IPset",
     "tags": [],
