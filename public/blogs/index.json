@@ -1,5 +1,14 @@
 [
   {
+    "slug": "ZFS-IO",
+    "title": "ZFS文件系统优化（一）IO调度根据硬盘类型自动配置",
+    "tags": [],
+    "date": "2026-01-10T16:51",
+    "summary": "",
+    "hidden": false,
+    "category": ""
+  },
+  {
     "slug": "cake-vps",
     "title": "一键配置 CAKE 队列脚本，优化vps带宽占用",
     "tags": [],
