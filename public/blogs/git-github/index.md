@@ -75,3 +75,7 @@ git add src/config.js              # 将文件加入暂存区，`add .` 为提�
 git commit -m "Sync upstream"   # 合并暂存区至仓库
 ```
 
+# PS
+1.如果git push 出现报错。
+可能是因为你在github网页修改过，没有同步至本地，需要先进行`git pull origin main
+` 同步文件
