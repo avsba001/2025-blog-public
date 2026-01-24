@@ -51,7 +51,14 @@ git fetch upstream
 ```
 这一步 **只是下载**，很安全。
 
-# 7.同步指定文件或文件夹
+# 7.查询差异文件
+
+去除`--name-only`可以查看文件内容差异
+```
+git diff --name-only upstream/main    
+```
+
+# 8.同步指定文件或文件夹
 **同步 单个文件**
 ```
 git checkout upstream/main -- src/config.js
@@ -61,7 +68,7 @@ git checkout upstream/main -- src/config.js
 git checkout upstream/main -- src/utils/
 ```
 
-# 8. 提交这次“选择性同步”
+# 9. 提交这次“选择性同步”
 ```
 git status                               # 查看当前目录文件状态
 git add src/config.js              # 将文件加入暂存区，`add .` 为提交当前目录
