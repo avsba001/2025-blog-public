@@ -1,0 +1,12 @@
+{
+  "title": "使用 Git 同步 fork 仓库上游指定文件",
+  "tags": [
+    "github",
+    "git",
+    "fork"
+  ],
+  "date": "2026-01-24T22:18",
+  "summary": "通过git，让github项目和上游同步，但是部分文件夹或者文件不要与上游同步",
+  "hidden": false,
+  "category": ""
+}
