@@ -60,5 +60,105 @@
 			"图片"
 		],
 		"stars": 3
+	},
+	{
+		"name": "自动化证书",
+		"logo": "https://ssl.zhangxiong.work/logo.svg",
+		"url": "https://ssl.zhangxiong.work/",
+		"description": "自动化",
+		"tags": [
+			"工具"
+		],
+		"stars": 5
+	},
+	{
+		"name": "临时邮箱",
+		"logo": "https://temp-mail.zhangxiong.work/logo.png",
+		"url": "https://temp-mail.zhangxiong.work/",
+		"description": "可以收发的临时邮箱",
+		"tags": [
+			"工具"
+		],
+		"stars": 5
+	},
+	{
+		"name": "Zitadel",
+		"logo": "https://sso.lyccc.cc:5443/ui/login/resources/themes/zitadel/logo-light.svg",
+		"url": "https://sso.lyccc.cc:5443/",
+		"description": "OIDP认证",
+		"tags": [
+			"SSO"
+		],
+		"stars": 5
+	},
+	{
+		"name": "匿名聊天",
+		"logo": "https://chat.lyccc.cc/assets/favicon-BGDOfmwx.svg",
+		"url": "https://chat.lyccc.cc/",
+		"description": "完全匿名",
+		"tags": [
+			"聊天"
+		],
+		"stars": 5
+	},
+	{
+		"name": "Easytier面板",
+		"logo": "https://easytier.lyccc.cc:5443/easytier.png",
+		"url": "https://easytier.lyccc.cc:5443/",
+		"description": "面板端",
+		"tags": [
+			"内网"
+		],
+		"stars": 5
+	},
+	{
+		"name": "HomeAssistant",
+		"logo": "https://ha.lyccc.cc:5443/static/icons/favicon.ico",
+		"url": "https://ha.lyccc.cc:5443/",
+		"description": "家居",
+		"tags": [
+			"智能"
+		],
+		"stars": 5
+	},
+	{
+		"name": "密码管理器",
+		"logo": "https://vaultwarden.lyccc.cc/images/logo-white.svg",
+		"url": "https://vaultwarden.lyccc.cc/",
+		"description": "开源密码管理器",
+		"tags": [
+			"工具"
+		],
+		"stars": 5
+	},
+	{
+		"name": "One-kvm",
+		"logo": "https://vnc.lyccc.cc:3443/share/android-chrome-192x192.png",
+		"url": "https://vnc.lyccc.cc:3443/login/",
+		"description": "家里nas",
+		"tags": [
+			"远程"
+		],
+		"stars": 5
+	},
+	{
+		"name": "下一代终端",
+		"logo": "https://terminal.lyccc.cc:5443/api/logo",
+		"url": "https://terminal.lyccc.cc:5443/",
+		"description": "很强",
+		"tags": [
+			"工具"
+		],
+		"stars": 5
+	},
+	{
+		"name": "订阅续费提醒",
+		"logo": "https://shop.lyccc.cc/favicon.ico",
+		"url": "https://shop.lyccc.cc/",
+		"description": "都是要交钱的",
+		"tags": [
+			"工具"
+		],
+		"stars": 5
 	}
 ]
