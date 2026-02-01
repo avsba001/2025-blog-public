@@ -82,6 +82,7 @@ failregex = ^.+sshd\[\d+\]:\s+Disconnected from authenticating user root <HOST> 
             ^.+sshd\[\d+\]:\s+Received disconnect from <HOST> port \d+:11: Bye Bye \[preauth\]$
             ^.+sshd\[\d+\]:\s+Invalid user .* from <HOST> port \d+.*$
             ^.+sshd\[\d+\]:\s+Disconnected from invalid user .* <HOST> port \d+ \[preauth\]$
+            ^.+sshd\[\d+\]:\s+Connection closed by authenticating user root <HOST> port \d+ \[preauth\]$
 
 # 防止误伤已成功登录的记录
 ignoreregex = ^.+sshd\[\d+\]:\s+Accepted .+ from <HOST> port \d+ .*$
