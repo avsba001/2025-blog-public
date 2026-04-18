@@ -1,5 +1,15 @@
 [
   {
+    "slug": "netbird",
+    "title": "【图文教程】在家宽非443端口用1panel部署 中文 NetBird服务端和中继",
+    "tags": [],
+    "date": "2026-04-18T11:40",
+    "summary": "",
+    "cover": "/blogs/netbird/03dd70c54596d634.png",
+    "hidden": false,
+    "category": ""
+  },
+  {
     "slug": "git-github",
     "title": "使用 Git 同步 fork 仓库上游指定文件",
     "tags": [
@@ -9,17 +19,6 @@
     ],
     "date": "2026-01-24T22:18",
     "summary": "通过git，让github项目和上游同步，但是部分文件夹或者文件不要与上游同步",
-    "hidden": false,
-    "category": ""
-  },
-  {
-    "slug": "netbird",
-    "title": "【实战虚拟组网】图文 1panel 自建 Netbird 自定义端口 （一）- 搭建Zitadel OIDC身份验证",
-    "tags": [
-      "netbird"
-    ],
-    "date": "2026-01-16T23:25",
-    "summary": "",
     "hidden": false,
     "category": ""
   },

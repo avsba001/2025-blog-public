@@ -1,10 +1,9 @@
 {
-  "title": "【实战虚拟组网】图文 1panel 自建 Netbird 自定义端口 （一）- 搭建Zitadel OIDC身份验证",
-  "tags": [
-    "netbird"
-  ],
-  "date": "2026-01-16T23:25",
+  "title": "【图文教程】在家宽非443端口用1panel部署 中文 NetBird服务端和中继",
+  "tags": [],
+  "date": "2026-04-18T11:40",
   "summary": "",
+  "cover": "/blogs/netbird/03dd70c54596d634.png",
   "hidden": false,
   "category": ""
 }
