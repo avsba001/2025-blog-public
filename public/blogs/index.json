@@ -1,5 +1,15 @@
 [
   {
+    "slug": "derp",
+    "title": "如何强制Tailscale走Derp中转",
+    "tags": [],
+    "date": "2026-07-02T10:09",
+    "summary": "",
+    "cover": "/blogs/derp/de7ba177209c8680.png",
+    "hidden": false,
+    "category": "开源"
+  },
+  {
     "slug": "netbird",
     "title": "【图文教程】在家宽非443端口用1panel部署 中文 NetBird服务端和中继",
     "tags": [],
